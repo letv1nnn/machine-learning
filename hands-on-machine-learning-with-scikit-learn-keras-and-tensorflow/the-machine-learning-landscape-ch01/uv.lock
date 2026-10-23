@@ -1062,7 +1062,7 @@ wheels = [
 ]
 
 [[package]]
-name = "the-machine-learning-landscape"
+name = "the-machine-learning-landscape-ch01"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
